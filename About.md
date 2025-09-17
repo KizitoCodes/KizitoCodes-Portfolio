@@ -17,6 +17,6 @@ To use technology to build impactful, scalable solutions that solve real-world p
 - 🤖 AI Mini Projects – Exploring ML models in Python  
 
 ## Connect With Me  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/stephen-atigiture-85b106385/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/stephen-atigiture-85b106385/)
 - 📧 Email: ckzhito324540@gmail.com
   
